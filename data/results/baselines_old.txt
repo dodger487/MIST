@@ -1,0 +1,70 @@
+Original
+Snips
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One     0.0     1.0   132.0
+       SCH-I545   216.0     0.0     7.0
+         XT1053     0.0     0.0    36.0
+        Nexus 4     0.0     0.0   104.0
+---------------------------------------
+         total:   216.0     1.0   279.0
+
+
+Time
+Snips
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One     0.0     1.0   132.0
+       SCH-I545   208.0     0.0    15.0
+         XT1053    14.0     0.0    22.0
+        Nexus 4    93.0     0.0    11.0
+---------------------------------------
+         total:   315.0     1.0   180.0
+
+
+Original, no preprocess
+Snips
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One     0.0     1.0   132.0
+       SCH-I545   216.0     0.0     7.0
+         XT1053     0.0     0.0    36.0
+        Nexus 4     0.0     0.0   104.0
+---------------------------------------
+         total:   216.0     1.0   279.0
+
+Time, no preprocess
+Snips
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One     0.0     1.0   132.0
+       SCH-I545   208.0     0.0    15.0
+         XT1053    14.0     0.0    22.0
+        Nexus 4    93.0     0.0    11.0
+---------------------------------------
+         total:   315.0     1.0   180.0
+
+
+Time
+Cleaned
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One     0.0     1.0   132.0
+       SCH-I545   217.0     1.0     6.0
+       SPH-L710     0.0     3.0    89.0
+         XT1053    34.0     2.0    38.0
+        Nexus 4    93.0     0.0    11.0
+---------------------------------------
+         total:   344.0     7.0   276.0
+
+Original
+Cleaned
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One     0.0     1.0   132.0
+       SCH-I545   219.0     2.0     4.0
+       SPH-L710     0.0     3.0    89.0
+         XT1053    52.0     2.0    20.0
+        Nexus 4    95.0     1.0     9.0
+---------------------------------------
+         total:   366.0     9.0   254.0

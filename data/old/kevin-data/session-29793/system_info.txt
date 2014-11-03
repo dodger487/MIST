@@ -1,0 +1,5 @@
+Build.DEVICE: mako
+Build.MODEL: Nexus 4
+Build.PRODUCT: occam
+Build.VERSION.SDK_INT: 19
+Screen resolution: 1196 x 768 px

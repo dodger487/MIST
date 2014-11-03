@@ -1,0 +1,5 @@
+Build.DEVICE: d2spr
+Build.MODEL: SPH-L710
+Build.PRODUCT: d2spr
+Build.VERSION.SDK_INT: 19
+Screen resolution: 1280 x 720 px

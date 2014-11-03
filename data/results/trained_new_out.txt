@@ -1,0 +1,62 @@
+Decalibrating
+Filename                                    Phone Model   TP   FP   FN
+mmx-negative-cjr-1.json                         4560MMX    0    7    0
+mmx-negative-cjr-2.json                         4560MMX    0    2    0
+mmx-negative-cjr-3.json                         4560MMX    0    8    0
+mmx-positive-cjr-1.json                         4560MMX   10    1    0
+mmx-positive-cjr-2.json                         4560MMX   20    0    0
+mmx-positive-cjr-3.json                         4560MMX   31    1    0
+motox-negative-cjr-1.json                        XT1053    0    4    0
+motox-negative-cjr-2.json                        XT1053    0    3    0
+motox-negative-cjr-3.json                        XT1053    0    3    0
+motox-negative-cjr-4.json                        XT1053    0    7    0
+motox-positive-cjr-1.json                        XT1053   36    8    0
+motox-positive-cjr-2.json                        XT1053   17    0    0
+motox-positive-cjr-3.json                        XT1053   17    2    0
+nexus4-negative-cjr-1.json                      Nexus 4    0    0    0
+nexus4-negative-cjr-2.json                      Nexus 4    0    0    0
+nexus4-negative-cjr-3.json                      Nexus 4    0    0    0
+nexus4-negative-gavin-1.json                    Nexus 4    0    0    0
+nexus4-negative-gavin-2.json                    Nexus 4    0    0    0
+nexus4-negative-gavin-3.json                    Nexus 4    0    0    0
+nexus4-positive-cjr-1.json                      Nexus 4   15    0    0
+nexus4-positive-cjr-2.json                      Nexus 4   11    0    1
+nexus4-positive-cjr-3.json                      Nexus 4   11    0    0
+nexus4-positive-cjr-4.json                      Nexus 4   14    2    0
+nexus4-positive-gavin-1.json                    Nexus 4   10    0    0
+nexus4-positive-gavin-2.json                    Nexus 4   15    0    0
+nexus4-positive-gavin-3.json                    Nexus 4   26    0    1
+s4-negative-1-cjr.json                         SCH-I545    0    1    0
+s4-negative-2-cjr.json                         SCH-I545    0    0    0
+s4-negative-3-cjr.json                         SCH-I545    0    1    0
+s4-negative-beka-1.json                        SCH-I545    0    0    0
+s4-negative-beka-2.json                        SCH-I545    0    0    0
+s4-negative-beka-3.json                        SCH-I545    0    0    0
+s4-negative-sh-1.json                          SCH-I545    0    2    0
+s4-negative-sh-2.json                          SCH-I545    0    1    0
+s4-negative-sh-3.json                          SCH-I545    0    2    0
+s4-positive-1-cjr.json                         SCH-I545   12    2    0
+s4-positive-2-cjr.json                         SCH-I545   10    1    0
+s4-positive-3-cjr.json                         SCH-I545   13    4    0
+s4-positive-beka-1.json                        SCH-I545   21    3    0
+s4-positive-beka-2.json                        SCH-I545   43    0    1
+s4-positive-beka-3.json                        SCH-I545   27    0    0
+s4-positive-sh-1.json                          SCH-I545   25    3    0
+s4-positive-sh-2.json                          SCH-I545   36    1    0
+s4-positive-sh-3.json                          SCH-I545   35    0    0
+s5-negative-cjr-1.json                         SM-G906S    0    8    0
+s5-negative-cjr-2.json                         SM-G906S    0    3    0
+s5-negative-cjr-3.json                         SM-G906S    0    1    0
+s5-positive-cjr-1.json                         SM-G906S   14   12    0
+s5-positive-cjr-2.json                         SM-G906S    6    5    0
+s5-positive-cjr-3.json                         SM-G906S   10    4    3
+
+Phone Totals
+    Phone Model      TP      FP      FN
+        4560MMX    61.0    19.0     0.0
+       SCH-I545   222.0    21.0     1.0
+       SM-G906S    30.0    33.0     3.0
+         XT1053    70.0    27.0     0.0
+        Nexus 4   102.0     2.0     2.0
+---------------------------------------
+         total:   485.0   102.0     6.0

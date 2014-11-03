@@ -1,0 +1,5 @@
+Build.DEVICE: hammerhead
+Build.MODEL: Nexus 5
+Build.PRODUCT: hammerhead
+Build.VERSION.SDK_INT: 19
+Screen resolution: 1794 x 1080 px

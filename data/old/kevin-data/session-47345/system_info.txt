@@ -1,0 +1,5 @@
+Build.DEVICE: maguro
+Build.MODEL: Galaxy Nexus
+Build.PRODUCT: takju
+Build.VERSION.SDK_INT: 18
+Screen resolution: 1196 x 720 px

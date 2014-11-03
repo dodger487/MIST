@@ -1,0 +1,28 @@
+Inidividually trained and tested
+
+CloseToOriginal Min first, max second
+    Phone Model      TP      FP      FN
+        HTC One    14.0     3.0    82.0
+       SCH-I545   222.0     4.0     1.0
+       SM-G906S    24.0    10.0     9.0
+         XT1053    70.0     0.0     0.0
+        4560MMX    51.0     3.0    10.0
+        Nexus 4   103.0     3.0     1.0
+
+WindowFeaturizer
+   Phone Model      TP      FP      FN
+        HTC One    17.0     6.0    79.0
+       SCH-I545   223.0     5.0     0.0
+       SM-G906S    33.0    10.0     0.0
+         XT1053    67.0     0.0     3.0
+        4560MMX    51.0     4.0    10.0
+        Nexus 4   104.0     4.0     0.0
+
+Negative And Positive Templates + other features
+    Phone Model      TP      FP      FN
+        HTC One    21.0     3.0    75.0
+       SCH-I545   222.0    11.0     1.0
+       SM-G906S    17.0     8.0    16.0
+         XT1053    68.0     4.0     2.0
+        4560MMX    61.0     3.0     0.0
+        Nexus 4   101.0     3.0     3.0

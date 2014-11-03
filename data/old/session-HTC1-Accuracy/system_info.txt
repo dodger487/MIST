@@ -1,0 +1,5 @@
+Build.DEVICE: m7
+Build.MODEL: HTC One
+Build.PRODUCT: brightstarus_wwe
+Build.VERSION.SDK_INT: 19
+Screen resolution: 1920 x 1080 px

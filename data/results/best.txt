@@ -1,0 +1,106 @@
+Best so far
+-----------
+
+ORIGINAL DETECTOR
+Running on full files, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+       SCH-I545   219.0     2.0     4.0
+        4560MMX    29.0     6.0    32.0
+        HTC One     0.0     1.0   132.0
+        Nexus 4    95.0     1.0     9.0
+         XT1053    26.0     1.0    10.0
+---------------------------------------
+         total:   369.0    11.0   187.0
+
+TIME WINDOW DETECTOR
+Running on full files
+Thresholds: 30, 130
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One     0.0     1.0   132.0
+        4560MMX    57.0     3.0     4.0
+       SCH-I545   221.0     5.0     2.0
+         XT1053    23.0     1.0    13.0
+        Nexus 4    94.0     0.0    10.0
+---------------------------------------
+         total:   395.0    10.0   161.0
+
+TIME WINDOW DETECTOR
+Running on full files
+Thresholds: 23, 123
+Phone Totals
+    Phone Model      TP      FP      FN
+       SCH-I545   217.0     1.0     6.0
+        4560MMX    52.0     3.0     9.0
+        HTC One     0.0     1.0   132.0
+        Nexus 4    93.0     0.0    11.0
+         XT1053    17.0     1.0    19.0
+---------------------------------------
+         total:   379.0     6.0   177.0
+
+
+FOR HTC: VECTOR CHANGE DETECTOR
+Running on full files, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+       SCH-I545     0.0    40.0   223.0
+        4560MMX     1.0    54.0    60.0
+        HTC One   113.0    10.0    19.0
+        Nexus 4     0.0    15.0   104.0
+         XT1053     1.0    19.0    35.0
+---------------------------------------
+         total:   115.0   138.0   441.0
+
+ML: MANY FEATURES, TRAINED ON MMX
+mmx_classifier.pkl
+Running on full files, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One     0.0     1.0   132.0
+        4560MMX    61.0     3.0     0.0
+       SCH-I545   221.0    12.0     2.0
+         XT1053    36.0    18.0     0.0
+        Nexus 4     0.0     0.0   104.0
+---------------------------------------
+         total:   318.0    34.0   238.0
+
+ML: MANY FEATURES, TRAINED ON NEXUS, S4, MOTOX, MMX
+no_htc_all.pkl
+Running on full files, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One     0.0     1.0   132.0
+        4560MMX    61.0    10.0     0.0
+       SCH-I545   222.0    14.0     1.0
+         XT1053    36.0    24.0     0.0
+        Nexus 4    98.0     1.0     6.0
+---------------------------------------
+         total:   417.0    50.0   139.0
+
+Learning on Boris's min / max normalized thing
+originalML.pkl
+Running on full files, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+        4560MMX    61.0     8.0     0.0
+       SCH-I545   222.0    15.0     1.0
+         XT1053    36.0    12.0     0.0
+        Nexus 4    99.0     0.0     5.0
+---------------------------------------
+         total:   418.0    35.0     6.0
+
+After adding three new filers, skip if abs(magnitudes[0] - magnitudes[-1]) > 500:
+  if min(magnitudes) > 1400, or if max(magnitudes) - min(magnitudes) < 30,
+  and using cosine similarity
+no_htc_all goes to:
+Running on full files, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One    22.0     1.0   110.0
+        4560MMX    61.0    15.0     0.0
+       SCH-I545   222.0    15.0     1.0
+         XT1053    15.0     9.0    21.0
+        Nexus 4   100.0     5.0     4.0
+---------------------------------------
+         total:   420.0    45.0   136.0

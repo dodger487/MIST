@@ -1,0 +1,5 @@
+Build.DEVICE: jflte
+Build.MODEL: GT-I9505
+Build.PRODUCT: jfltexx
+Build.VERSION.SDK_INT: 19
+Screen resolution: 1920 x 1080 px

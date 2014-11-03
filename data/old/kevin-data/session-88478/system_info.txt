@@ -1,0 +1,5 @@
+Build.DEVICE: pyramid
+Build.MODEL: HTC Sensation 4G
+Build.PRODUCT: htc_pyramid
+Build.VERSION.SDK_INT: 15
+Screen resolution: 960 x 540 px

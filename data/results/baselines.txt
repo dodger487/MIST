@@ -1,0 +1,378 @@
+ORIGINAL DETECTOR
+Running on snippets
+Phone Totals
+    Phone Model      TP      FP      FN
+       SCH-I545   216.0     0.0     7.0
+        HTC One     0.0     1.0   132.0
+        4560MMX     0.0     0.0    61.0
+         XT1053     0.0     0.0    36.0
+        Nexus 4     0.0     0.0   104.0
+---------------------------------------
+         total:   216.0     1.0   340.0
+
+ORIGINAL DETECTOR
+Running on full files
+Phone Totals
+    Phone Model      TP      FP      FN
+       SCH-I545   219.0     2.0     4.0
+        4560MMX    29.0     6.0    32.0
+        HTC One     0.0     1.0   132.0
+        Nexus 4    94.0     1.0    10.0
+         XT1053    25.0     1.0    11.0
+---------------------------------------
+         total:   367.0    11.0   189.0
+
+ORIGINAL DETECTOR
+Running on snippets, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+       SCH-I545   216.0     0.0     7.0
+        HTC One     0.0     1.0   132.0
+        4560MMX     0.0     0.0    61.0
+         XT1053     0.0     0.0    36.0
+        Nexus 4     0.0     0.0   104.0
+---------------------------------------
+         total:   216.0     1.0   340.0
+
+ORIGINAL DETECTOR
+Running on full files, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+       SCH-I545   219.0     2.0     4.0
+        4560MMX    29.0     6.0    32.0
+        HTC One     0.0     1.0   132.0
+        Nexus 4    95.0     1.0     9.0
+         XT1053    26.0     1.0    10.0
+---------------------------------------
+         total:   369.0    11.0   187.0
+
+TIME WINDOW DETECTOR
+Running on full files
+Thresholds: 30, 130
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One     0.0     1.0   132.0
+        4560MMX    57.0     3.0     4.0
+       SCH-I545   221.0     5.0     2.0
+         XT1053    23.0     1.0    13.0
+        Nexus 4    94.0     0.0    10.0
+---------------------------------------
+         total:   395.0    10.0   161.0
+
+TIME WINDOW DETECTOR
+Running on snippets
+Thresholds: 23, 123
+Phone Totals
+    Phone Model      TP      FP      FN
+       SCH-I545   208.0     0.0    15.0
+        HTC One     0.0     1.0   132.0
+        4560MMX    50.0     0.0    11.0
+         XT1053    14.0     0.0    22.0
+        Nexus 4    93.0     0.0    11.0
+---------------------------------------
+         total:   365.0     1.0   191.0
+
+TIME WINDOW DETECTOR
+Running on full files
+Thresholds: 23, 123
+Phone Totals
+    Phone Model      TP      FP      FN
+       SCH-I545   217.0     1.0     6.0
+        4560MMX    52.0     3.0     9.0
+        HTC One     0.0     1.0   132.0
+        Nexus 4    93.0     0.0    11.0
+         XT1053    17.0     1.0    19.0
+---------------------------------------
+         total:   379.0     6.0   177.0
+
+TIME WINDOW DETECTOR
+Running on snippets, decalibrated
+Thresholds: 23, 123
+Phone Totals
+    Phone Model      TP      FP      FN
+       SCH-I545   208.0     0.0    15.0
+        HTC One     0.0     1.0   132.0
+        4560MMX    50.0     0.0    11.0
+         XT1053    14.0     0.0    22.0
+        Nexus 4    93.0     0.0    11.0
+---------------------------------------
+         total:   365.0     1.0   191.0
+
+TIME WINDOW DETECTOR
+Running on full files, decalibrated
+Thresholds: 23, 123
+Phone Totals
+    Phone Model      TP      FP      FN
+       SCH-I545   217.0     1.0     6.0
+        4560MMX    52.0     3.0     9.0
+        HTC One     0.0     1.0   132.0
+        Nexus 4    93.0     0.0    11.0
+         XT1053    17.0     1.0    19.0
+---------------------------------------
+         total:   379.0     6.0   177.0
+
+VECTOR CHANGE DETECTOR
+Running on snippets
+Phone Totals
+    Phone Model      TP      FP      FN
+       SCH-I545     0.0    20.0   223.0
+        HTC One   111.0     2.0    21.0
+        4560MMX     0.0     5.0    61.0
+         XT1053     0.0     0.0    36.0
+        Nexus 4     0.0     5.0   104.0
+---------------------------------------
+         total:   111.0    32.0   445.0
+
+VECTOR CHANGE DETECTOR
+Running on full files
+Phone Totals
+    Phone Model      TP      FP      FN
+       SCH-I545     0.0    40.0   223.0
+        4560MMX     1.0    55.0    60.0
+        HTC One   113.0    10.0    19.0
+        Nexus 4     0.0    15.0   104.0
+         XT1053     1.0    19.0    35.0
+---------------------------------------
+         total:   115.0   139.0   441.0
+
+VECTOR CHANGE DETECTOR
+Running on snippets, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+       SCH-I545     0.0    20.0   223.0
+        HTC One   111.0     2.0    21.0
+        4560MMX     0.0     5.0    61.0
+         XT1053     0.0     0.0    36.0
+        Nexus 4     0.0     5.0   104.0
+---------------------------------------
+         total:   111.0    32.0   445.0
+
+VECTOR CHANGE DETECTOR
+Running on full files, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+       SCH-I545     0.0    40.0   223.0
+        4560MMX     1.0    54.0    60.0
+        HTC One   113.0    10.0    19.0
+        Nexus 4     0.0    15.0   104.0
+         XT1053     1.0    19.0    35.0
+---------------------------------------
+         total:   115.0   138.0   441.0
+
+ML: MANY FEATURES, NORMALIZE ON BEGINNING OF WINDOW
+clf_allphone_allfeat_normbegin_squaredist.pkl
+classifier/
+Running on snips, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+        4560MMX    61.0     4.0     0.0
+       SCH-I545   222.0     3.0     1.0
+         XT1053    36.0     0.0     0.0
+        Nexus 4    98.0     0.0     6.0
+---------------------------------------
+         total:   417.0     7.0     7.0
+
+ML: MANY FEATURES, NORMALIZE ON BEGINNING OF WINDOW
+clf_allphone_allfeat_normbegin_squaredist.pkl
+Running on full files, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+        4560MMX    61.0    10.0     0.0
+       SCH-I545   222.0    14.0     1.0
+       SPH-L710     0.0     7.0    89.0
+         XT1053    72.0    48.0     0.0
+        Nexus 4    98.0     1.0     6.0
+---------------------------------------
+         total:   453.0    80.0    96.0
+
+ML: MANY FEATURES, TRAINED ON NEXUS
+nexus_classifier.pkl
+Running on snips, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One     0.0     1.0   132.0
+        4560MMX    61.0    23.0     0.0
+       SCH-I545   222.0     9.0     1.0
+         XT1053    36.0     0.0     0.0
+        Nexus 4   102.0     3.0     2.0
+---------------------------------------
+         total:   421.0    36.0   135.0
+
+ML: MANY FEATURES, TRAINED ON NEXUS
+nexus_classifier.pkl
+Running on full files, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+        4560MMX    61.0    42.0     0.0
+       SCH-I545   222.0    27.0     1.0
+         XT1053    36.0    35.0     0.0
+        Nexus 4   102.0     3.0     2.0
+---------------------------------------
+         total:   421.0   107.0     3.0
+
+
+ML: MANY FEATURES, TRAINED ON NEXUS, S4, MOTOX, MMX
+no_htc_all.pkl
+Running on snips, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One     0.0     1.0   132.0
+        4560MMX    61.0     4.0     0.0
+       SCH-I545   222.0     3.0     1.0
+         XT1053    36.0    11.0     0.0
+        Nexus 4    98.0     0.0     6.0
+---------------------------------------
+         total:   417.0    19.0   139.0
+
+ML: MANY FEATURES, TRAINED ON NEXUS, S4, MOTOX, MMX
+no_htc_all.pkl
+Running on full files, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One     0.0     1.0   132.0
+        4560MMX    61.0    10.0     0.0
+       SCH-I545   222.0    14.0     1.0
+         XT1053    36.0    24.0     0.0
+        Nexus 4    98.0     1.0     6.0
+---------------------------------------
+         total:   417.0    50.0   139.0
+
+
+ML: MANY FEATURES, TRAINED ON MMX
+mmx_classifier.pkl
+Running on full files, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One     0.0     1.0   132.0
+        4560MMX    61.0     3.0     0.0
+       SCH-I545   221.0    12.0     2.0
+         XT1053    36.0    18.0     0.0
+        Nexus 4     0.0     0.0   104.0
+---------------------------------------
+         total:   318.0    34.0   238.0
+
+ML: MANY FEATURES, TRAINED ON MMX
+mmx_classifier.pkl
+Running on snips, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One     0.0     1.0   132.0
+        4560MMX    61.0     2.0     0.0
+       SCH-I545   221.0     2.0     2.0
+         XT1053    36.0     0.0     0.0
+        Nexus 4     0.0     0.0   104.0
+---------------------------------------
+         total:   318.0     5.0   238.0
+
+ML: POSITIVE TEMPLATES, NEGATIVE TEMPLATES,
+ RAW MAGNITUDES,
+ TRAINED ON NEXUS, S4, MOTOX, MMX
+Running on snips, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+        4560MMX    60.0    14.0     1.0
+       SCH-I545   221.0     5.0     2.0
+         XT1053    36.0     7.0     0.0
+        Nexus 4    99.0     2.0     5.0
+---------------------------------------
+         total:   416.0    28.0     8.0
+
+ML: POSITIVE TEMPLATES, NEGATIVE TEMPLATES,
+ NO RAW MAGNITUDES
+ TRAINED ON NEXUS, S4, MOTOX, MMX
+Running on snips, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+        4560MMX    49.0    52.0    12.0
+       SCH-I545   219.0    15.0     4.0
+         XT1053    36.0    12.0     0.0
+        Nexus 4   102.0    19.0     2.0
+---------------------------------------
+         total:   406.0    98.0    18.0
+
+ML: POSITIVE TEMPLATES, NEGATIVE TEMPLATES,
+ NO RAW MAGNITUDES
+ TRAINED ON NEXUS, S4, MOTOX, MMX
+Running on snips, decalibrated
+classifiers/templates_negstraightlinetemplate_magntiude_no_htc.pkl
+Phone Totals
+    Phone Model      TP      FP      FN
+        4560MMX    60.0     9.0     1.0
+       SCH-I545   221.0     5.0     2.0
+         XT1053    36.0     6.0     0.0
+        Nexus 4   101.0     2.0     3.0
+---------------------------------------
+         total:   418.0    22.0     6.0
+
+
+Learning on Boris's min / max normalized thing
+originalML.pkl
+Running on full files, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+        4560MMX    61.0     8.0     0.0
+       SCH-I545   222.0    15.0     1.0
+         XT1053    36.0    12.0     0.0
+        Nexus 4    99.0     0.0     5.0
+---------------------------------------
+         total:   418.0    35.0     6.0
+
+All distances (sum, sum squared, cosine)
+distances.pkl
+Running on snips, decalibrated
+Phone Totals
+    Phone Model      TP      FP      FN
+        4560MMX    56.0    25.0     5.0
+       SCH-I545   221.0     9.0     2.0
+         XT1053    36.0     6.0     0.0
+        Nexus 4   102.0    11.0     2.0
+---------------------------------------
+         total:   415.0    51.0     9.0
+
+distances_sum.pkl
+snips
+Phone Totals
+    Phone Model      TP      FP      FN
+        4560MMX    51.0    32.0    10.0
+       SCH-I545   222.0    13.0     1.0
+         XT1053    36.0    10.0     0.0
+        Nexus 4   104.0    13.0     0.0
+---------------------------------------
+         total:   413.0    68.0    11.0
+
+distances_sq.pkl
+snips
+Phone Totals
+    Phone Model      TP      FP      FN
+        4560MMX    52.0    31.0     9.0
+       SCH-I545   221.0    12.0     2.0
+         XT1053    36.0    11.0     0.0
+        Nexus 4   102.0    14.0     2.0
+---------------------------------------
+         total:   411.0    68.0    13.0
+
+distances_cos.pkl
+snips
+Phone Totals
+    Phone Model      TP      FP      FN
+        4560MMX    60.0    24.0     1.0
+       SCH-I545   221.0     8.0     2.0
+         XT1053    36.0     4.0     0.0
+        Nexus 4   102.0     9.0     2.0
+---------------------------------------
+         total:   419.0    45.0     5.0
+
+After adding three new filers, skip if abs(magnitudes[0] - magnitudes[-1]) > 500:
+  if min(magnitudes) > 1400, or if max(magnitudes) - min(magnitudes) < 30,
+no_htc_all goes to:
+on snippets
+Phone Totals
+    Phone Model      TP      FP      FN
+        HTC One     4.0     1.0    92.0
+        4560MMX    60.0     7.0     1.0
+       SCH-I545   222.0     4.0     1.0
+         XT1053    36.0     1.0     0.0
+        Nexus 4   101.0     1.0     3.0
+---------------------------------------
+         total:   423.0    14.0    97.0
+

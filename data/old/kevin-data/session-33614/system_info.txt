@@ -1,0 +1,5 @@
+Build.DEVICE: toro
+Build.MODEL: Galaxy Nexus
+Build.PRODUCT: mictacea
+Build.VERSION.SDK_INT: 15
+Screen resolution: 1196 x 720 px

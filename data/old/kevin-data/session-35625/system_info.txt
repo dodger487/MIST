@@ -1,0 +1,5 @@
+Build.DEVICE: cdma_targa
+Build.MODEL: DROID BIONIC
+Build.PRODUCT: XT875_verizon
+Build.VERSION.SDK_INT: 15
+Screen resolution: 960 x 540 px

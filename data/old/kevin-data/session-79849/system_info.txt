@@ -1,0 +1,5 @@
+Build.DEVICE: ghost
+Build.MODEL: XT1060
+Build.PRODUCT: ghost_verizon
+Build.VERSION.SDK_INT: 19
+Screen resolution: 1196 x 720 px
